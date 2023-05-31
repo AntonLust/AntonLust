@@ -4,7 +4,7 @@ I am in the final stretch of my Web Developement course (Backend Module) at the 
 🌍  I'm based in Hamburg, Germany</b>
 <hr>
 <br>
-Skills
+<br>Skills</br>
 
 
 <p align="left">
