@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton=============================================================================================================================Junior Fullstack Web Developer (MERN)-------------------------------------I am in the final stretch of my Web Developement course (Backend Module) at the Digital Career Institute.* 🌍  I'm based in Hamburg, Germany
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonunior Fullstack Web Developer (MERN)I am in the final stretch of my Web Developement course (Backend Module) at the Digital Career Institute.* 🌍  I'm based in Hamburg, Germany
 
 ### Skills
 
